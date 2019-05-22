@@ -1,6 +1,7 @@
 {
   "version": 2,
   "alias": ["fldwrk.com", "www.fldwrk.com"],
+  "scope": "fldwrk",
   "routes": [
     {
       "src": "/(.*)",
